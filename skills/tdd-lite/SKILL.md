@@ -2,7 +2,7 @@
 name: tdd-lite
 description: >-
   Use when implementing new behavior or fixing a bug where a regression test
-  can be written first. Lightweight Red-Green-Refactor without subagent bloat.
+  can be written first. Single-context Red-Green-Refactor workflow.
 ---
 
 # TDD-Lite
